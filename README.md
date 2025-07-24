@@ -3,7 +3,6 @@
 ### Project Overview
 This project provides a comprehensive analysis of sales data for ElectroHub, an electronics retail company. The goal was to build an interactive Power BI dashboard to track key sales metrics, identify performance trends, and provide detailed, actionable insights for strategic decision-making.
 
-**Live Dashboard:** `[Link to your published Power BI Report]`
 
 ---
 
